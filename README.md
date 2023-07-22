@@ -1,5 +1,6 @@
 # FillUpBox
 2d game
+Two players can play together
 # OUTPUT
 ![image001](https://github.com/Shuvo018/FillUpBox/assets/80082187/6e1b6cee-72dc-4152-9eca-d922e69e9f37)
 
